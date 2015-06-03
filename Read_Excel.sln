@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_Excel", "Read_Excel\Read_Excel.csproj", "{3B3C5EF5-0B20-4533-B1B7-11FDC4E52B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3C5EF5-0B20-4533-B1B7-11FDC4E52B92}.Debug|x86.ActiveCfg = Debug|x86
+		{3B3C5EF5-0B20-4533-B1B7-11FDC4E52B92}.Debug|x86.Build.0 = Debug|x86
+		{3B3C5EF5-0B20-4533-B1B7-11FDC4E52B92}.Release|x86.ActiveCfg = Release|x86
+		{3B3C5EF5-0B20-4533-B1B7-11FDC4E52B92}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
